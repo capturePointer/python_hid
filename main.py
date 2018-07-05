@@ -1,5 +1,7 @@
 import sys
 import time
+def writetohidg0(str): # Easy way to use as a library
+    presskeys(getvalueofstr(str))
 def presskeys(memkey): # list
     for i in memkey:
         if type(i)==type(0.0):
