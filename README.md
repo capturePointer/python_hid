@@ -31,3 +31,4 @@ ln -s functions/hid.usb0 configs/c.1/
 # End functions
 ls /sys/class/udc > UDC
 ```
+For more info see [Wiki](https://github.com/mefolder/python_hid/wiki)
